@@ -1,4 +1,4 @@
-package br.com.alura.desafios_carreira_java;
+package br.com.alura.desafios.carreira.java;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
